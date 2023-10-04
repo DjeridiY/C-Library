@@ -22,4 +22,4 @@ If you want to compile your program directly in the repository (easiest way), yo
 ```
 ## Help
 
-If you need help and don't understand how to use it, open a issue at github and ask your question.
+If you need help and don't understand how to use it, open a issue at github and ask your question.![image](https://github.com/DjeridiY/C-Library/assets/114922612/0cb793e8-4341-4096-9357-b305489d2683)
