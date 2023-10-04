@@ -1,4 +1,4 @@
-# C-LIBRARY
+# C-Library
 
 # Compilation
 
@@ -20,6 +20,58 @@ If you want to compile your program directly in the repository (easiest way), yo
 ```c
 #include "my.h"
 ```
+
+# Function list
+```
+# Extract
+    - file_to_string
+    - file_to_tab
+
+# List
+    - free_list
+    - list_size
+    - params_to_list
+    - print_list
+
+# Print
+    - my_printf
+    - my_putchar
+    - my_putnbr_unsigned
+    - my_putnbr
+    - my_putstr
+
+# Sort
+    - bubble_sort_array
+
+# String
+    - my_atoi
+    - my_find_string
+    - my_itoa
+    - my_reverse_string
+    - my_str_isalpha
+    - my_str_isnum
+    - my_strcat
+    - my_strcmp
+    - my_strcpy
+    - my_strdup
+    - my_strlen
+    - my_strncat
+    - my_strncmp
+    - my_strncpy
+    - my_tolower
+    - my_toupper
+    - remove_char
+
+# Tab
+    - free_tab_int
+    - free_tab
+    - my_str_to_word_array
+    - my_tabdup
+    - print_tab_int
+    - print_tab
+    - size_of_tab
+``````
+
 ## Help
 
 If you need help and don't understand how to use it, open a issue at github and ask your question
