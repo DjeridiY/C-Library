@@ -26,7 +26,7 @@ int count_word(char *str, char const delim)
 }
 
 static char **fill_word_array(char *str, char const delim,
-char **tab, int const word)
+    char **tab, int const word)
 {
     int j = 0;
     int c = 0;
