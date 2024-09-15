@@ -16,7 +16,7 @@ The compilation create a library at you can include to your C project to have ac
 # Usage
 ## Include directly in the repository
 
-To compile your program directly in the repository (easiest way), you can create file and include this to use function of the library:
+If you want To compile your program directly in the repository (easiest way), you can create file and include this to use function of the library:
 ```c
 #include "my.h"
 ```
